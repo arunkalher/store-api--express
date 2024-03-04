@@ -1,6 +1,6 @@
 
 #Store API
-### It is a Store APi where we can search for particular products, filter them by variuos criterion, sort them and many more...
+### It is a Store API where we can search for particular products, filter them by variuos criterion, sort them and many more...
 #### Get all items
 
 ```http
